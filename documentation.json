@@ -20,38 +20,46 @@
             "pages": [
               {
                 "title": "Introdução",
-                "path": "Introdução"
+                "path": "Introdução",
+                "icon": "book"
               },
               {
                 "title": "Processo",
-                "path": "processo"
+                "path": "processo",
+                "icon": "lucide-tablet"
               },
               {
                 "title": "Vestimenta",
-                "path": "vestimenta"
+                "path": "vestimenta",
+                "icon": "lucide-shirt"
               },
               {
                 "title": "Postura e conduta oficial",
-                "path": "postura-e-conduta-oficial"
+                "path": "postura-e-conduta-oficial",
+                "icon": "lucide-siren"
               },
               {
                 "title": "Código Q",
-                "path": "cdigo-q"
+                "path": "cdigo-q",
+                "icon": "lucide-audio-waveform"
               },
               {
                 "title": "Código de patrulha",
-                "path": "cdigo-de-patrulha"
+                "path": "cdigo-de-patrulha",
+                "icon": "car-taxi-front"
               },
               {
                 "title": "Abordagens",
-                "path": "abordagens"
+                "path": "abordagens",
+                "icon": "circle-stop"
               },
               {
                 "title": "Abordagem Felony",
-                "path": "abordagem-felony"
+                "path": "abordagem-felony",
+                "icon": "circle-stop"
               },
               {
-                "title": "PCD’s (pessoas com deficiência)",
+                "title": "♿ PCD’s (pessoas com deficiência)",
                 "path": "pcds-pessoas-com-deficincia"
               }
             ]
