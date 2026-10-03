@@ -15,59 +15,19 @@
         "icon": "book",
         "groups": [
           {
-            "group": "Start Here",
-            "icon": "rocket",
+            "group": "Recruitme",
             "pages": [
               {
-                "title": "Introduction",
-                "path": "introduction",
-                "icon": "home"
+                "title": "Processo",
+                "path": "processo"
               },
               {
-                "title": "Quickstart",
-                "path": "quickstart",
-                "icon": "zap"
+                "title": "Introdução",
+                "path": "Introdução"
               },
               {
-                "title": "Components",
-                "path": "components",
-                "icon": "code"
-              }
-            ]
-          },
-          {
-            "group": "Components",
-            "icon": "layers",
-            "pages": [
-              {
-                "title": "Images",
-                "path": "components/images",
-                "icon": "image"
-              },
-              {
-                "title": "Cards",
-                "path": "components/cards",
-                "icon": "square"
-              },
-              {
-                "title": "Code",
-                "path": "components/code",
-                "icon": "code"
-              },
-              {
-                "title": "Callouts",
-                "path": "components/callouts",
-                "icon": "message-square"
-              },
-              {
-                "title": "Steps",
-                "path": "components/steps",
-                "icon": "list-ordered"
-              },
-              {
-                "title": "Tabs",
-                "path": "components/tabs",
-                "icon": "columns"
+                "title": "Vestimenta",
+                "path": "vestimenta"
               }
             ]
           }
@@ -146,6 +106,15 @@
             "title": "Changelog",
             "path": "changelog",
             "icon": "history"
+          }
+        ]
+      },
+      {
+        "tab": "Ia",
+        "pages": [
+          {
+            "title": "Recrutamento",
+            "path": "recrutamento"
           }
         ]
       }
