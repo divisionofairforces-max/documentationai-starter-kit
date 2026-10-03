@@ -29,6 +29,30 @@
               {
                 "title": "Vestimenta",
                 "path": "vestimenta"
+              },
+              {
+                "title": "Postura e conduta oficial",
+                "path": "postura-e-conduta-oficial"
+              },
+              {
+                "title": "Código Q",
+                "path": "cdigo-q"
+              },
+              {
+                "title": "Código de patrulha",
+                "path": "cdigo-de-patrulha"
+              },
+              {
+                "title": "Abordagens",
+                "path": "abordagens"
+              },
+              {
+                "title": "Abordagem Felony",
+                "path": "abordagem-felony"
+              },
+              {
+                "title": "PCD’s (pessoas com deficiência)",
+                "path": "pcds-pessoas-com-deficincia"
               }
             ]
           }
