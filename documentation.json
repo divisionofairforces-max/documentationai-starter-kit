@@ -1,5 +1,4 @@
 {
-  "name": "Starter Kit",
   "colors": {
     "light": {
       "brand": "#F97316"
@@ -67,5 +66,7 @@
         ]
       }
     ]
-  }
+  },
+  "template": "classic",
+  "logo-dark": "https://blob-cdn.documentation.ai/org-1484349e-5f17-4a45-bb4e-f538d26f5b4e/doc-2ea568ce-045a-4a09-940d-65ee119cca81/1791037077019-fckm27p0a1-1212.png?fm=auto&auto=compress%2Cformat"
 }
