@@ -19,7 +19,8 @@
             "pages": [
               {
                 "title": "Introdução",
-                "path": "introduo"
+                "path": "introduo",
+                "icon": "house"
               },
               {
                 "title": "Processo",
